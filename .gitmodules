@@ -1,0 +1,3 @@
+[submodule "subA"]
+	path = libA
+	url = git@github.com:leitiannet/git-libA.git
